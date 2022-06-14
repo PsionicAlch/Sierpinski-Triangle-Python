@@ -50,8 +50,8 @@ class Triangle:
             random_point_inside_triangle = (x, y)
 
         # Draw the random point.
-            self.triangle.goto(random_point_inside_triangle)
-            self.triangle.dot(2)
+        self.triangle.goto(random_point_inside_triangle)
+        self.triangle.dot(2)
 
         for _ in range(iterations):
             # Step 2:
