@@ -2,7 +2,7 @@
 
 This programming challenge was inpsired by this [TikTok video](https://vm.tiktok.com/ZMNNk5PW7/?k=1).
 
-![GIF of Sierpinski Triangle being generated](https://github.com/Wolfman13/Sierpinski_Triangle/Sierpinski_Triangle.gif)
+[GIF of Sierpinski Triangle being generated](https://github.com/Wolfman13/Sierpinski_Triangle/Sierpinski_Triangle.gif)
 
 The idea is to draw a Sierpinski triangle using the following algorithm:
 1. Start with three points. The points of a triangle.
