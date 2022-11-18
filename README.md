@@ -1,4 +1,4 @@
-# Sierpinski Triangle
+# Sierpinski Triangle Python
 
 This programming challenge was inpsired by this [TikTok video](https://vm.tiktok.com/ZMNNk5PW7/?k=1).
 
