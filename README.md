@@ -25,3 +25,7 @@ For windows:
     python main.py [number of iterations]
 
 The number of iterations can be left out and the default value will be used (The default being 1 000 000 000).
+
+## Similar Projects:
+
+- [Golang](https://github.com/Wolfman13/Sierpinski-Triangle-Golang)
